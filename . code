@@ -1,0 +1,78 @@
+[33mcommit d9c24b324436f7f4280dedeb0479421bd2a4fff2[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Merge: 443a473 a7d6db9
+Author: guillermotoppph <guillermotoppph@gmail.com>
+Date:   Mon Mar 11 00:23:28 2024 -0300
+
+    Merge branch 'main' of https://github.com/Guillermotopp/Contacto-Barber-a-Alura
+
+[33mcommit 443a4738e194326ec5601638778027f591228263[m
+Author: guillermotoppph <guillermotoppph@gmail.com>
+Date:   Mon Mar 11 00:00:35 2024 -0300
+
+    Algunos cambios en el index.html
+
+[33mcommit e98cb963861a4d45ac93eace6bd84db30ebd6c30[m
+Author: guillermotoppph <guillermotoppph@gmail.com>
+Date:   Sun Mar 10 23:59:44 2024 -0300
+
+    modificacion de los links
+
+[33mcommit a7d6db9f765bee210f78a24933080df398eed769[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Guillermotopp <126685447+Guillermotopp@users.noreply.github.com>
+Date:   Sun Mar 10 21:58:30 2024 -0300
+
+    Se agregaron links a las otras paginas de la barberia
+
+[33mcommit 2b45c91b6091d4ac8faab5ae94eca246b66e8506[m
+Author: Guillermotopp <126685447+Guillermotopp@users.noreply.github.com>
+Date:   Fri Feb 23 20:04:15 2024 -0300
+
+    Add files via upload
+    
+    Logo del pie de pagina de la Barberia Alura y imagen de fondo de la hoja de estilos
+    version 1.0
+
+[33mcommit 2681fa6cb709363ff679267eb6e04455f48c5afc[m
+Author: Guillermotopp <126685447+Guillermotopp@users.noreply.github.com>
+Date:   Fri Feb 23 19:59:11 2024 -0300
+
+    Rename logo.png to imagenes/logo.png
+    
+    Cambio del archivo logo.png desde la raiz a la subcarpeta imagenes
+
+[33mcommit 403d1f804c059c7e2ec721dd31c3624e1b1e1f2b[m
+Author: Guillermotopp <126685447+Guillermotopp@users.noreply.github.com>
+Date:   Fri Feb 23 19:55:27 2024 -0300
+
+    Add files via upload
+    
+    Logo de la Barbería Alura
+    Versión 1.0
+
+[33mcommit 2a6a52f54a7131abf86f8214232ce6bacaaf920f[m
+Author: Guillermotopp <126685447+Guillermotopp@users.noreply.github.com>
+Date:   Fri Feb 23 19:54:17 2024 -0300
+
+    Add files via upload
+    
+    Logo de la Barbería Alura
+    Versión 1.0
+
+[33mcommit 29407b9ae8e84a16796ae7da495f2bde5cf2ce4b[m
+Author: Guillermotopp <126685447+Guillermotopp@users.noreply.github.com>
+Date:   Fri Feb 23 19:48:06 2024 -0300
+
+    Create style.css
+    
+    La hoja de estilos de la Página de contactos de la Barbería Alura, denominada como index.html en este repositorio por ser la unica y principal pagina del proyecto
+    
+    Version 1.0
+
+[33mcommit cec4088726d30fae18c75827ee536ed80ea463ff[m
+Author: Guillermotopp <126685447+Guillermotopp@users.noreply.github.com>
+Date:   Fri Feb 23 19:46:19 2024 -0300
+
+    Create index.html
+    
+    Contacto - Pagina de Contacto de la Barbería Alura
+    Versión 1.0
